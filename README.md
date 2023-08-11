@@ -48,6 +48,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [Introducing Reinforcement Learning] <https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/>
 
+[Reprogram your genes with Pranayama] <https://www.youtube.com/watch?v=pQV-FMvnCNo>
+
 
 
 
