@@ -36,5 +36,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [CNN Explained] <https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/>
 
+[NLP MCQ] https://qpkendra.com/mcq/natural-language-processing-mcq-pg-6.html
+
 
 
