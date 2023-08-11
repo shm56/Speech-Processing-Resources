@@ -38,5 +38,17 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [NLP MCQ] https://qpkendra.com/mcq/natural-language-processing-mcq-pg-6.html
 
+[Configuring a CNN model] <https://www.tensorflow.org/tutorials/images/cnn>
+
+[Speech Wiki 1] <https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing>
+
+[Speech Wiki 2] <https://melon1024.github.io/ssc/>
+
+[CNN Loss function video] <https://www.youtube.com/watch?v=635cmrp4z40&t=594s>
+
+[Introducing Reinforcement Learning] <https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/>
+
+
+
 
 
