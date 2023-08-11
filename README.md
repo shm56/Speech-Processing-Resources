@@ -3,3 +3,5 @@ This repository is aimed at a single collection of resources in the field of Aud
 
 Blogs
 Initially, let us start with my blog on Audio and Speech Processing using Machine Learning.
+
+Audio Neural Style Transfer (https://www.intel.com/content/www/us/en/developer/articles/technical/neural-style-transfer-on-audio-signals.html)
