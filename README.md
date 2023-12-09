@@ -104,3 +104,29 @@ https://www.youtube.com/watch?v=WJI-17MNpdE
 <https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b>
 
 <https://towardsdatascience.com/bird-song-classification-using-siamese-networks-and-dilated-convolutions-3b38a115bc1>
+
+**Audio Analysis**
+
+<https://www.kaggle.com/code/salimhammadi07/esc-50-environmental-sound-classification>
+
+<https://www.kaggle.com/code/ishivinal/getting-started-with-audio-analysis>
+
+<https://www.kaggle.com/code/greenteaade/gtzan-music-speech-classification>
+
+<https://www.kaggle.com/code/padmanabhanporaiyar/audio-mnist-classification-98-accuracy>
+
+<https://www.kaggle.com/code/christianlillelund/classify-mnist-audio-using-spectrograms-keras-cnn>
+
+**GTZAN**
+
+<https://www.kaggle.com/code/basu369victor/generate-music-with-variational-autoencoder>
+
+<https://www.kaggle.com/code/joshxmiller656/ddim-music-generation>
+
+<https://www.kaggle.com/code/dapy15/music-genre-classification>
+
+[Diffusion] 
+
+<https://github.com/riffusion/riffusion>
+
+
