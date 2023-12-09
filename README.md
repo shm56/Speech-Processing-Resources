@@ -57,7 +57,50 @@ https://www.youtube.com/watch?v=WJI-17MNpdE
 
 https://www.youtube.com/watch?v=WJI-17MNpdE
 
+[Speaker Diarization]
 
+<https://www.ir.com/blog/communications/speaker-diarization-with-siamese-networks>
 
+<https://asa.scitation.org/doi/pdf/10.1121/10.0002924>
 
+<https://github.com/josepatino/pyBK>
 
+<https://pythonrepo.com/tag/speaker-diarization>
+
+<https://pypi.org/project/pyannote.audio/>
+
+<https://researchcode.com/code/3248226312/speaker-diarization-with-lstm/>
+
+<https://github.com/speechbrain/speechbrain>
+
+<https://speechbrain.github.io/>
+
+<https://wq2012.github.io/awesome-diarization/>
+
+<https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html>
+
+<https://hackernoon.com/speaker-diarization-the-squad-way-2205e0accbda>
+
+<https://github.com/pyannote/pyannote-audio>
+
+<https://projets-lium.univ-lemans.fr/s4d/>
+
+**Online Spectrogram Generator**
+
+<https://convert.ing-now.com/mp3-audio-spectrogram-graphic-generator/options/86d12b528547d50b9ea4edf53ce64cb8/>
+
+**AIC and BIC**
+
+<https://www.youtube.com/watch?v=lEDpZmq5rBw>
+
+<https://www.youtube.com/watch?v=40uFLHV5O5I>
+
+**Bird Species Classification**
+
+<https://github.com/DCASE-REPO/bulbul_bird_detection_dcase2018>
+
+<https://towardsdatascience.com/adventures-in-pytorch-image-classification-with-caltech-birds-200-part-1-the-dataset-6e5433e9897c>
+
+<https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b>
+
+<https://towardsdatascience.com/bird-song-classification-using-siamese-networks-and-dilated-convolutions-3b38a115bc1>
