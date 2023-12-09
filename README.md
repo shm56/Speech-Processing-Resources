@@ -50,6 +50,13 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [Reprogram your genes with Pranayama] <https://www.youtube.com/watch?v=pQV-FMvnCNo>
 
+[MFCC]
+https://www.youtube.com/watch?v=4_SH2nfbQZ8
+
+https://www.youtube.com/watch?v=WJI-17MNpdE
+
+https://www.youtube.com/watch?v=WJI-17MNpdE
+
 
 
 
